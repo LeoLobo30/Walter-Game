@@ -1,6 +1,7 @@
 [
 null,
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"id":1,"expanded":true,"name":"vila","order":1,"parentId":0,"scrollX":1116,"scrollY":1352.5714285714284},
 {"id":2,"expanded":true,"name":"Entrada da dungeon fire","order":11,"parentId":0,"scrollX":1116,"scrollY":639.4285714285714},
 {"id":3,"expanded":false,"name":"Introdução","order":6,"parentId":0,"scrollX":1129.7142857142856,"scrollY":636},
@@ -16,6 +17,8 @@ null,
 {"id":13,"expanded":false,"name":"Mansão","order":4,"parentId":1,"scrollX":1116,"scrollY":1284},
 {"id":14,"expanded":false,"name":"Loja de armas","order":5,"parentId":1,"scrollX":832,"scrollY":640}
 =======
+=======
+>>>>>>> parent of ba9f4c9... pessoas do mapa
 {"id":1,"expanded":true,"name":"vila","order":1,"parentId":0,"scrollX":2162.6666666666665,"scrollY":1650.6666666666667},
 {"id":2,"expanded":false,"name":"MAP002","order":10,"parentId":0,"scrollX":2184,"scrollY":1229.3333333333333},
 {"id":3,"expanded":false,"name":"Introdução","order":2,"parentId":0,"scrollX":2184,"scrollY":1229.3333333333333},
