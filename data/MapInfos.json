@@ -1,24 +1,5 @@
 [
 null,
-<<<<<<< HEAD
-<<<<<<< HEAD
-{"id":1,"expanded":true,"name":"vila","order":1,"parentId":0,"scrollX":1116,"scrollY":1352.5714285714284},
-{"id":2,"expanded":true,"name":"Entrada da dungeon fire","order":11,"parentId":0,"scrollX":1116,"scrollY":639.4285714285714},
-{"id":3,"expanded":false,"name":"Introdução","order":6,"parentId":0,"scrollX":1129.7142857142856,"scrollY":636},
-{"id":4,"expanded":true,"name":"Entrada dungeon demon","order":7,"parentId":0,"scrollX":1116,"scrollY":636},
-{"id":5,"expanded":false,"name":"DGFIRE01","order":12,"parentId":2,"scrollX":1116,"scrollY":1012},
-{"id":6,"expanded":false,"name":"DGFIRE02","order":13,"parentId":2,"scrollX":1116,"scrollY":622.2857142857142},
-{"id":7,"expanded":false,"name":"DGFIRE03","order":14,"parentId":2,"scrollX":1274,"scrollY":1312},
-{"id":8,"expanded":false,"name":"DGDEMON01","order":8,"parentId":4,"scrollX":2184,"scrollY":1208.5714285714284},
-{"id":9,"expanded":false,"name":"DGDEMON02","order":9,"parentId":4,"scrollX":2616,"scrollY":1208.5714285714284},
-{"id":10,"expanded":false,"name":"DGDEMON03","order":10,"parentId":4,"scrollX":2184,"scrollY":1208.5714285714284},
-{"id":11,"expanded":false,"name":"Casa 1","order":2,"parentId":1,"scrollX":1129.7142857142856,"scrollY":636},
-{"id":12,"expanded":false,"name":"Casa 2","order":3,"parentId":1,"scrollX":1129.7142857142856,"scrollY":636},
-{"id":13,"expanded":false,"name":"Mansão","order":4,"parentId":1,"scrollX":1116,"scrollY":1284},
-{"id":14,"expanded":false,"name":"Loja de armas","order":5,"parentId":1,"scrollX":832,"scrollY":640}
-=======
-=======
->>>>>>> parent of ba9f4c9... pessoas do mapa
 {"id":1,"expanded":true,"name":"vila","order":1,"parentId":0,"scrollX":2162.6666666666665,"scrollY":1650.6666666666667},
 {"id":2,"expanded":false,"name":"MAP002","order":10,"parentId":0,"scrollX":2184,"scrollY":1229.3333333333333},
 {"id":3,"expanded":false,"name":"Introdução","order":2,"parentId":0,"scrollX":2184,"scrollY":1229.3333333333333},
@@ -29,5 +10,4 @@ null,
 {"id":8,"expanded":false,"name":"DGDEMON01","order":7,"parentId":0,"scrollX":2184,"scrollY":1208},
 {"id":9,"expanded":false,"name":"DGDEMON02","order":8,"parentId":0,"scrollX":2616,"scrollY":1208},
 {"id":10,"expanded":false,"name":"DGDEMON03","order":9,"parentId":0,"scrollX":2184,"scrollY":1208}
->>>>>>> parent of ba9f4c9... pessoas do mapa
 ]
